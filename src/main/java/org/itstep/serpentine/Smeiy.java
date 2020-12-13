@@ -1,4 +1,4 @@
-package serpentine;
+package org.itstep.serpentine;
 
 import org.itstep.Animal;
 
